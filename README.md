@@ -5,7 +5,6 @@
 ![made-with-node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![made-with-vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![made-with-github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![license-MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
 
 ## 🖼️ Screenshot
 
@@ -112,7 +111,6 @@ Zorg dat je het volgende hebt geïnstalleerd:
 | `npm run build` | Bouwt de productieversie      |
 | `npm start`     | Start de productieversie      |
 | `npm run lint`  | Controleert de code op fouten |
-
 
 ## 🔗 Project Link
 
