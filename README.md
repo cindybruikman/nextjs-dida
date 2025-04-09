@@ -1,4 +1,4 @@
-# Next.js Di
+# Next.js
 
 ![made-with-nextjs](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![made-with-tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -16,7 +16,7 @@
 
 ## 📖 Overzicht
 
-**Next.js Dida** is een leerproject waarbij een eenvoudige HTML-website werd omgezet naar een volledig functionele **Next.js webapplicatie**. De focus lag op het leren werken met componenten, routing, GitHub versiebeheer en het deployen via Vercel.
+**Next.js** is een leerproject waarbij een eenvoudige HTML-website werd omgezet naar een volledig functionele **Next.js webapplicatie**. De focus lag op het leren werken met componenten, routing, GitHub versiebeheer en het deployen via Vercel.
 
 ---
 
@@ -114,19 +114,6 @@ Zorg dat je het volgende hebt geïnstalleerd:
 | `npm start`     | Start de productieversie             |
 | `npm run lint`  | Controleert de code op fouten        |
 
----
-
-## 🤝 Bijdragen
-
-Contributies zijn welkom! Open een issue of stuur een pull request in om samen te bouwen aan dit project.
-
----
-
-## 📄 Licentie
-
-Dit project is gelicentieerd onder de **MIT License**.
-
----
 
 ## 🔗 Project Link
 
