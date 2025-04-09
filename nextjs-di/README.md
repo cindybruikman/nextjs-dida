@@ -1,36 +1,133 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Next.js Dida
 
-## Getting Started
+![made-with-nextjs](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![made-with-tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![made-with-node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![made-with-vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![made-with-github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![license-MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
 
-First, run the development server:
+## 🖼️ Screenshot
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+> *(Voeg hier een screenshot toe van je app - bijv. public/screenshot.png)*  
+> ![Screenshot](public/screenshot.png)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## 📖 Overzicht
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+**Next.js Dida** is een leerproject waarbij een eenvoudige HTML-website werd omgezet naar een volledig functionele **Next.js webapplicatie**. De focus lag op het leren werken met componenten, routing, GitHub versiebeheer en het deployen via Vercel.
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## ✨ Belangrijkste Features
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- 🔁 **Herbruikbare componenten**: Bouwblokken voor gedeelde elementen zoals headers en footers.
+- 📁 **Multi-pagina ondersteuning**: Meerdere pagina’s met behulp van Next.js routing.
+- 🌐 **Vercel Deploy**: Eenvoudig online zetten van je project.
+- ⚙️ **HTML naar React migratie**: Basiskennis opgedaan in het omzetten van statische HTML naar dynamische componenten.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 🎯 Doel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Het doel van dit project was om te leren hoe je van een eenvoudige HTML-site een werkend **Next.js project** maakt, inclusief:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- Component-structuur
+- Routing
+- GitHub-werking
+- Deployment met Vercel
+
+---
+
+## 🛠️ Gebruikte Technologieën
+
+### Frontend
+
+- [Next.js](https://nextjs.org/)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Tailwind CSS](https://tailwindcss.com/)
+
+### Development Tools
+
+- [VS Code](https://code.visualstudio.com/)
+- [GitHub Desktop](https://desktop.github.com/)
+- [Node.js](https://nodejs.org/)
+- [npm](https://www.npmjs.com/)
+- [GitHub](https://github.com/)
+- [Vercel](https://vercel.com/)
+
+---
+
+## ⚙️ Installatie
+
+### ✅ Vereisten
+
+Zorg dat je het volgende hebt geïnstalleerd:
+
+- Node.js (LTS versie)
+- npm
+
+### 🚀 Stappen
+
+1. **Clone de repository**:
+
+   ```bash
+   git clone https://github.com/cindybruikman/nextjs-dida.git
+   ```
+
+2. **Ga naar de projectmap**:
+
+   ```bash
+   cd nextjs-dida
+   ```
+
+3. **Installeer de dependencies**:
+
+   ```bash
+   npm install
+   ```
+
+4. **Start de ontwikkelserver**:
+
+   ```bash
+   npm run dev
+   ```
+
+5. **Open je browser op** [http://localhost:3000](http://localhost:3000)
+
+---
+
+## ⚙️ Configuratie
+
+- Maak een `.env.local` bestand aan voor je omgevingsvariabelen (indien nodig).
+- Pas `next.config.js` aan voor aangepaste instellingen.
+
+---
+
+## 📜 Scripts
+
+| Commando        | Beschrijving                         |
+|-----------------|--------------------------------------|
+| `npm run dev`   | Start de ontwikkelserver             |
+| `npm run build` | Bouwt de productieversie             |
+| `npm start`     | Start de productieversie             |
+| `npm run lint`  | Controleert de code op fouten        |
+
+---
+
+## 🤝 Bijdragen
+
+Contributies zijn welkom! Open een issue of stuur een pull request in om samen te bouwen aan dit project.
+
+---
+
+## 📄 Licentie
+
+Dit project is gelicentieerd onder de **MIT License**.
+
+---
+
+## 🔗 Project Link
+
+🔗 GitHub Repo: [https://github.com/cindybruikman/nextjs-dida](https://github.com/cindybruikman/nextjs-dida)
