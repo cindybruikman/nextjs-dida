@@ -1,4 +1,4 @@
-# Next.js Dida
+# Next.js Di
 
 ![made-with-nextjs](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![made-with-tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
