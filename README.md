@@ -9,8 +9,7 @@
 
 ## 🖼️ Screenshot
 
-> *(Voeg hier een screenshot toe van je app - bijv. public/screenshot.png)*  
-> ![Screenshot](public/screenshot.png)
+![Screenshot van de app](public/readme/readme.png)
 
 ---
 
@@ -107,12 +106,12 @@ Zorg dat je het volgende hebt geïnstalleerd:
 
 ## 📜 Scripts
 
-| Commando        | Beschrijving                         |
-|-----------------|--------------------------------------|
-| `npm run dev`   | Start de ontwikkelserver             |
-| `npm run build` | Bouwt de productieversie             |
-| `npm start`     | Start de productieversie             |
-| `npm run lint`  | Controleert de code op fouten        |
+| Commando        | Beschrijving                  |
+| --------------- | ----------------------------- |
+| `npm run dev`   | Start de ontwikkelserver      |
+| `npm run build` | Bouwt de productieversie      |
+| `npm start`     | Start de productieversie      |
+| `npm run lint`  | Controleert de code op fouten |
 
 
 ## 🔗 Project Link
