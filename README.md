@@ -1,10 +1,11 @@
 # Next.js
 
-![made-with-nextjs](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![made-with-tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![made-with-node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![made-with-vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![made-with-github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/deployed-Vercel-black?logo=vercel)
+![Next.js](https://img.shields.io/badge/framework-Next.js-black?logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/styling-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
+![OpenAI](https://img.shields.io/badge/AI-GPT--3.5--turbo-000000?logo=openai&logoColor=white)
+![React](https://img.shields.io/badge/library-React-61DAFB?logo=react)
+![License](https://img.shields.io/github/license/cindybruikman/runsync-next)
 
 ## 🖼️ Screenshot
 
